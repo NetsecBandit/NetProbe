@@ -14,7 +14,7 @@ Clone or download the script.
 Ensure any required libraries (like argparse, socket, subprocess, etc.) are installed. For most users, these libraries come pre-installed with Python.
 
 Run the following command:
-python network_scanner.py --target <IP or IP range> --output <output format>
+python NET_Probe.py --target <IP or IP range> --output <output format>
 
 
 Command-Line Options
